@@ -1,0 +1,19 @@
+{
+    "quiz": {
+      "questions": [
+        "What programming language did Fast Track transition to for their backend?",
+        "Which cloud hosting provider does Fast Track use?",
+        "What container orchestration tool does Fast Track utilize?",
+        "What is the core idea behind Fast Track CRM's engine?",
+        "What architecture style does Fast Track use for their platform?"
+      ],
+      "answers": [
+        ["PHP", "Java", "Golang", ".NET"],
+        ["Rackspace", "AWS", "Google Cloud", "Azure"],
+        ["Docker Swarm", "Kubernetes", "Mesos", "Nomad"],
+        ["Batch processing", "Real-time event processing", "Scheduled tasks", "Manual interventions"],
+        ["Monolithic", "Microservices", "Service-oriented", "Event-driven"]
+      ]
+    },
+    "correctAnswers": [2, 1, 1, 1, 2]
+  }
